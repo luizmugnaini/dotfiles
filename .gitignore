@@ -11,6 +11,7 @@
 !*.vim
 !*.hs
 !*.sh
+!*.yml
 
 # Do not ignore if they are in subdirectories
 !*/
