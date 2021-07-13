@@ -10,6 +10,7 @@
 !.zshrc
 !*.vim
 !*.hs
+!*.sh
 
 # Do not ignore if they are in subdirectories
 !*/
