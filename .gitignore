@@ -12,6 +12,3 @@
 
 # Do not ignore if they are in subdirectories
 !*/
-!~/.xmonad
-!.xmonad/trayer
-!~/.config/nvim
