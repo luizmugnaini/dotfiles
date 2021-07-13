@@ -9,6 +9,7 @@
 !.xmobarrc
 !.zshrc
 !*.vim
+!*.hs
 
 # Do not ignore if they are in subdirectories
 !*/
